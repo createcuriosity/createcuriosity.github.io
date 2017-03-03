@@ -1,2 +1,2 @@
-# hello-word
+# createcuriosity
 just another repolist
